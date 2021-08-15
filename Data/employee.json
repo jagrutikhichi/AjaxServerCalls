@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "name": "Priyanka Chopra",
+      "name": "Rajeev Chopra",
       "Salary": 500000
     },
     {
@@ -21,8 +21,8 @@
       "id": 4
     },
     {
-      "Name": "Harry Style",
-      "Salary": 400000,
+      "name": "Hope Bennet",
+      "Salary": 600000,
       "id": 5
     }
   ]
