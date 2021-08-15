@@ -1,0 +1,29 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "Name": "Jagruti Khichi",
+      "Salary": 400000
+    },
+    {
+      "id": 2,
+      "name": "Priyanka Chopra",
+      "Salary": 500000
+    },
+    {
+      "firstName": "Mark Spencer",
+      "Salary": 200000,
+      "id": 3
+    },
+    {
+      "firstName": "Robert Thomas",
+      "Salary": 700000,
+      "id": 4
+    },
+    {
+      "Name": "Harry Style",
+      "Salary": 400000,
+      "id": 5
+    }
+  ]
+}
